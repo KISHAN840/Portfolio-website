@@ -1,7 +1,3 @@
-Here is a **modern README for your Portfolio Website** written in the **same style as your KrishiMitra README** 👇 You can paste this directly into your **GitHub `README.md`**.
-
----
-
 # Personal Portfolio Website 💻🚀
 
 **Modern Developer Portfolio Built with React & Tailwind**
@@ -39,9 +35,9 @@ The website focuses on **clean design, fast performance, and responsive user exp
 ---
 
 ## Project Preview 🖼️
-https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/front_1.png
-https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/about.png
-https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/skill.png
+![Home Page](https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/front_1.png)
+![About Page](https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/about.png)
+![Skill Page](https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/skill.png)
 
 ---
 
