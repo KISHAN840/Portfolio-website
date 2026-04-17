@@ -40,13 +40,11 @@ The website focuses on **clean design, fast performance, and responsive user exp
 
 ## Project Preview 🖼️
 
-*(Add your portfolio screenshot here)*
+(C:\Users\kisha\Downloads\Create personal portfolio website (1)\src\imports\images\front_1.png)
 
-Example:
+(C:\Users\kisha\Downloads\Create personal portfolio website (1)\src\imports\images\about.png)
 
-```
-<img width="1200" alt="Portfolio Preview" src="your-screenshot-link-here">
-```
+(C:\Users\kisha\Downloads\Create personal portfolio website (1)\src\imports\images\skill.png)
 
 ---
 
@@ -55,7 +53,7 @@ Example:
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+git clone https://github.com/KISHAN840/portfolio-website.git
 ```
 
 2️⃣ **Navigate to the project folder**
@@ -110,4 +108,3 @@ LinkedIn:
 💡 *This portfolio represents my journey in software development, cybersecurity, and innovative technology solutions.*
 
 ---
-
