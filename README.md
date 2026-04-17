@@ -39,12 +39,9 @@ The website focuses on **clean design, fast performance, and responsive user exp
 ---
 
 ## Project Preview 🖼️
-
-(C:\Users\kisha\Downloads\Create personal portfolio website (1)\src\imports\images\front_1.png)
-
-(C:\Users\kisha\Downloads\Create personal portfolio website (1)\src\imports\images\about.png)
-
-(C:\Users\kisha\Downloads\Create personal portfolio website (1)\src\imports\images\skill.png)
+https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/front_1.png
+https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/about.png
+https://github.com/KISHAN840/Portfolio-website/blob/main/src/imports/images/skill.png
 
 ---
 
